@@ -15,3 +15,9 @@ body { font-family: var(--font-main); background: var(--bg-color); color: var(--
 .site-nav ul { display: flex; list-style: none; gap: 1.5rem; }
 .site-nav a { text-decoration: none; color: #64748b; font-weight: 500; transition: color 0.2s; }
 .site-nav a:hover, .site-nav a.active { color: var(--primary); }
+.hero { padding: 5rem 0; text-align: center; }
+.hero-title { font-size: 2.75rem; letter-spacing: -0.025em; margin-bottom: 1rem; }
+.hero-subtitle { font-size: 1.2rem; color: #64748b; max-width: 600px; margin: 0 auto 2rem; }
+.btn { display: inline-block; padding: 0.65rem 1.5rem; border-radius: 6px; font-weight: 600; text-decoration: none; }
+.btn-primary { background: var(--primary); color: #fff; }
+.btn-secondary { background: transparent; border: 1px solid var(--border); color: var(--text-color); margin-left: 0.75rem; }
