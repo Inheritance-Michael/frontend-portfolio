@@ -19,3 +19,5 @@ A modern, accessible portfolio built with vanilla web technologies.
 - Iteration milestone 53: Refined component architecture and accessibility.
 
 - Iteration milestone 59: Refined component architecture and accessibility.
+
+- Iteration milestone 65: Refined component architecture and accessibility.
