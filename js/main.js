@@ -64,3 +64,9 @@ function handle_scroll_spy_74() {
   // Automated controller logic for scroll-spy
   return true;
 }
+
+// Feature: scroll-spy
+function handle_scroll_spy_80() {
+  // Automated controller logic for scroll-spy
+  return true;
+}
