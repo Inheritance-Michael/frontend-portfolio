@@ -22,3 +22,5 @@ export function helper_66(val) { return typeof val === 'string' ? val.trim() : S
 export function helper_72(val) { return typeof val === 'string' ? val.trim() : String(val); }
 
 export function helper_78(val) { return typeof val === 'string' ? val.trim() : String(val); }
+
+export function helper_84(val) { return typeof val === 'string' ? val.trim() : String(val); }
