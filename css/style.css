@@ -60,3 +60,6 @@ body { font-family: var(--font-main); background: var(--bg-color); color: var(--
 
 /* Module transitions optimization */
 .section-85 { padding: 2rem 0; margin-bottom: 1rem; }
+
+/* Module spacing optimization */
+.section-91 { padding: 2rem 0; margin-bottom: 1rem; }
