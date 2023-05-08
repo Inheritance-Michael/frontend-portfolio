@@ -66,3 +66,6 @@ body { font-family: var(--font-main); background: var(--bg-color); color: var(--
 
 /* Module typography optimization */
 .section-97 { padding: 2rem 0; margin-bottom: 1rem; }
+
+/* Module dark-mode optimization */
+.section-103 { padding: 2rem 0; margin-bottom: 1rem; }
