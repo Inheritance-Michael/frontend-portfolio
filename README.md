@@ -33,3 +33,5 @@ A modern, accessible portfolio built with vanilla web technologies.
 - Iteration milestone 95: Refined component architecture and accessibility.
 
 - Iteration milestone 101: Refined component architecture and accessibility.
+
+- Iteration milestone 107: Refined component architecture and accessibility.
