@@ -75,3 +75,6 @@ body { font-family: var(--font-main); background: var(--bg-color); color: var(--
 
 /* Module media-queries optimization */
 .section-115 { padding: 2rem 0; margin-bottom: 1rem; }
+
+/* Module animations optimization */
+.section-121 { padding: 2rem 0; margin-bottom: 1rem; }
