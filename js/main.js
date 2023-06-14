@@ -130,3 +130,9 @@ function handle_scroll_spy_140() {
   // Automated controller logic for scroll-spy
   return true;
 }
+
+// Feature: scroll-spy
+function handle_scroll_spy_146() {
+  // Automated controller logic for scroll-spy
+  return true;
+}
