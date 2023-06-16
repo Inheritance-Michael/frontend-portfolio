@@ -44,3 +44,5 @@ export function helper_132(val) { return typeof val === 'string' ? val.trim() : 
 export function helper_138(val) { return typeof val === 'string' ? val.trim() : String(val); }
 
 export function helper_144(val) { return typeof val === 'string' ? val.trim() : String(val); }
+
+export function helper_150(val) { return typeof val === 'string' ? val.trim() : String(val); }
